@@ -36,7 +36,7 @@ if __name__ == "__main__":
         else "Fail"
     )
 
-    # Example 1:
+    # Example 4:
     # Input: [3,3]
     # Output: true
     print("Pass" if (containsDuplicate([3, 3]) == True) else "Fail")
