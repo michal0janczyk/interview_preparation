@@ -22,7 +22,7 @@ def convert_int_to_bin(dec_num):
 
 
 if __name__ == "__main__":
-
+    print(convert_int_to_bin(100000))
     print(convert_int_to_bin(56))
     print(convert_int_to_bin(2))
     print(convert_int_to_bin(32))
